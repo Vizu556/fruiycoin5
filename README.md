@@ -1,1 +1,1 @@
-# fruiycoin5
+# FruitCoin
